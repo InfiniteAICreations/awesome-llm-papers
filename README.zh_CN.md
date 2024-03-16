@@ -14,7 +14,7 @@
   </h4>
 </div>
 
-😎 Awesome lists about all kinds of AIGC related papers
+😎 汇总AIGC相关的论文
 
-## papers
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): This paper introduces a general-purpose fine-tuning recipe for retrieval-augmented generation (RAG) -- models which combine pre-trained parametric and non-parametric memory for language generation.
+## 论文
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): 这篇论文介绍了RAG(Retrieval-Augmented Generation, 检索增强生成)，可以讲训练好的大语言模型与相关的资料结合增强特定领域的内容生成能力。

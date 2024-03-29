@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">awesome-aigc-related-papers</h1>
+  <h1 align="center">awesome-llm-related-papers</h1>
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-papers">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-aigc-related-papers/blob/main/README.zh_CN.md">简体中文</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-related-papers">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-related-papers/blob/main/README.zh_CN.md">简体中文</a>
   </p>
 
   <h4 align="center">
@@ -14,7 +14,10 @@
   </h4>
 </div>
 
-😎 汇总AIGC相关的论文
+😎 汇总LLM相关的论文
 
-## 论文
+## 文本 / 信息 / 知识
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): 这篇论文介绍了RAG(Retrieval-Augmented Generation, 检索增强生成)，可以讲训练好的大语言模型与相关的资料结合增强特定领域的内容生成能力。
+
+## 图像
+- [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239):  扩散模型的奠基之作，提出了denoising diffusion probabilistic models (DDPMs)。

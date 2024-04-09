@@ -21,3 +21,4 @@
 
 ## image
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239):  This paper introduces a new class of generative models called denoising diffusion probabilistic models (DDPMs).
+- [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/pdf/2404.05719.pdf): Apple's paper on multimodal LLMs for mobile UI understanding.

@@ -16,12 +16,17 @@
 
 😎 Awesome lists about all kinds of LLM related papers
 
-## text / information / knowledge
+## Text / Information / Knowledge
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): This paper introduces a general-purpose fine-tuning recipe for retrieval-augmented generation (RAG) -- models which combine pre-trained parametric and non-parametric memory for language generation.
 
-## image
+## Image
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239):  This paper introduces a new class of generative models called denoising diffusion probabilistic models (DDPMs).
 - [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/pdf/2404.05719.pdf): Apple's paper on multimodal LLMs for mobile UI understanding.
 
 ## Architecture
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762): This paper introduces the Transformer architecture, which is based on the multi-head attention mechanism.
+
+## Survey
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/abs/2303.11717)
+- [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)

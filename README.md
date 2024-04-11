@@ -30,3 +30,6 @@
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 - [A Complete Survey on Generative AI (AIGC): Is ChatGPT from GPT-4 to GPT-5 All You Need?](https://arxiv.org/abs/2303.11717)
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
+
+## Operating System
+- [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)

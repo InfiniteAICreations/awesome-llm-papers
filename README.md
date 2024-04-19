@@ -43,3 +43,6 @@
 - [DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction](https://arxiv.org/abs/2304.11015)
 - [KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers](https://arxiv.org/abs/2106.11455)
 - [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs](https://arxiv.org/pdf/2305.03111.pdf)
+
+## LLM fine-tuning
+- [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)

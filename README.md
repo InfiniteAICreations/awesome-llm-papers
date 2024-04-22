@@ -46,3 +46,6 @@
 
 ## LLM fine-tuning
 - [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
+
+## Security
+- [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144v2)

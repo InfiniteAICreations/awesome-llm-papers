@@ -53,3 +53,7 @@
 
 ## Security
 - [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144v2)
+
+## Agents
+- [AutoDev: Automated AI-Driven Development](https://arxiv.org/pdf/2403.08299.pdf)
+

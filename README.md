@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">awesome-llm-related-papers</h1>
+  <h1 align="center">awesome-llm-papers</h1>
   <p>
-      <a href="https://github.com/InfiniteAICreations/awesome-llm-related-papers">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-related-papers/blob/main/README.zh_CN.md">简体中文</a>
+      <a href="https://github.com/InfiniteAICreations/awesome-llm-papers">English</a> | <a href="https://github.com/InfiniteAICreations/awesome-llm-papers/blob/main/README.zh_CN.md">简体中文</a>
   </p>
 
   <h4 align="center">

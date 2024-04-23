@@ -44,6 +44,9 @@
 - [KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers](https://arxiv.org/abs/2106.11455)
 - [Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs](https://arxiv.org/pdf/2305.03111.pdf)
 
+## LLMs
+- [CodeGemma: Open Code Models Based on Gemma](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
+
 ## LLM fine-tuning
 - [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)
 

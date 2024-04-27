@@ -48,6 +48,7 @@
 ## LLMs
 - [CodeGemma: Open Code Models Based on Gemma](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
 - [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/pdf/2404.14219.pdf)
+- [Code Llama: Open Foundation Models for Code](https://arxiv.org/pdf/2308.12950.pdf)
 
 ## LLM fine-tuning
 - [Efficient Training of Language Models to Fill in the Middle](https://arxiv.org/abs/2207.14255)

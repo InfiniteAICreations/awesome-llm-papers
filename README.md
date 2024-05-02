@@ -19,6 +19,7 @@
 
 ## Text / Information / Knowledge
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401): This paper introduces a general-purpose fine-tuning recipe for retrieval-augmented generation (RAG) -- models which combine pre-trained parametric and non-parametric memory for language generation.
+- [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://arxiv.org/abs/2404.17723)
 
 ## Image
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239):  This paper introduces a new class of generative models called denoising diffusion probabilistic models (DDPMs).

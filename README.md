@@ -35,6 +35,7 @@
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
 - [Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers](https://arxiv.org/abs/2404.04925)
 - [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)
+- [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543)
 
 ## Operating System
 - [AIOS: LLM Agent Operating System](https://arxiv.org/abs/2403.16971)

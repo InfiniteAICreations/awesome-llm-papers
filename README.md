@@ -29,6 +29,7 @@
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762): This paper introduces the Transformer architecture, which is based on the multi-head attention mechanism.
 - [Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention](https://arxiv.org/abs/2404.07143): This work introduces an efficient method to scale Transformer-based Large Language Models (LLMs) to infinitely long inputs with bounded memory and computation.
 - [A Primer on the Inner Workings of Transformer-based Language Models](https://arxiv.org/abs/2405.00208): This paper presents a technical introduction to current techniques used to interpret the inner workings of Transformer-based language models.
+- [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756v2): Inspired by the Kolmogorov-Arnold representation theorem, the paper propose Kolmogorov-Arnold Networks (KANs) as promising alternatives to Multi-Layer Perceptrons (MLPs)
 
 ## Survey
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)

@@ -66,6 +66,11 @@
 ## Security
 - [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144v2)
 
+## Evaluation
+- [SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?](https://arxiv.org/pdf/2310.06770): 
+SWE-bench is an evaluation framework comprising 2,294 software engineering problems from GitHub, designed to test language models on complex code-editing tasks requiring extensive contextual understanding and reasoning. 
+
+
 ## Agents
 - [AutoDev: Automated AI-Driven Development](https://arxiv.org/pdf/2403.08299.pdf)
 

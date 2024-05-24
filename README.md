@@ -69,6 +69,7 @@
 ## Evaluation
 - [SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?](https://arxiv.org/pdf/2310.06770): 
 SWE-bench is an evaluation framework comprising 2,294 software engineering problems from GitHub, designed to test language models on complex code-editing tasks requiring extensive contextual understanding and reasoning. 
+- [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/pdf/2311.12983)
 
 ## Agents
 - [AutoDev: Automated AI-Driven Development](https://arxiv.org/pdf/2403.08299.pdf)

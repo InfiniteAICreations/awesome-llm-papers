@@ -74,6 +74,7 @@ SWE-bench is an evaluation framework comprising 2,294 software engineering probl
 
 ## Agents
 - [AutoDev: Automated AI-Driven Development](https://arxiv.org/pdf/2403.08299.pdf)
+- [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/pdf/2406.01014)
 
 ## Vision
 - [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)

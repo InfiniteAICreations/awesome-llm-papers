@@ -78,4 +78,4 @@ SWE-bench is an evaluation framework comprising 2,294 software engineering probl
 
 ## Vision
 - [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)
-
+- [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/pdf/2405.18196)
